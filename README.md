@@ -1,2 +1,1 @@
-# StrikeGPT-VL-8B
-StrikeGPT-VL-8B
+![img2.gif](img2.gif)
